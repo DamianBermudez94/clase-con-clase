@@ -72,5 +72,6 @@ function testClaseEdificio() {
   
   function main() {
     testClaseEdificio();
+      console.log("Hola Mundo!!!)";
   }
   main();
